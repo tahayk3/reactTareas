@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactTareas/static/css/main.0a48a03d.css",
+    "main.js": "/reactTareas/static/js/main.b6aaef35.js",
+    "index.html": "/reactTareas/index.html",
+    "main.0a48a03d.css.map": "/reactTareas/static/css/main.0a48a03d.css.map",
+    "main.b6aaef35.js.map": "/reactTareas/static/js/main.b6aaef35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a48a03d.css",
+    "static/js/main.b6aaef35.js"
+  ]
+}
